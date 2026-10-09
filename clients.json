@@ -1,0 +1,50 @@
+{
+    "Client1": {
+        "ip": "192.168.1.10",
+        "subnet": "192.168.1.0/24",
+        "protocol": "TCP",
+        "priority": "NORMAL"
+    },
+
+    "Client2": {
+        "ip": "192.168.1.11",
+        "subnet": "192.168.1.0/24",
+        "protocol": "TCP",
+        "priority": "NORMAL"
+    },
+
+    "Client3": {
+        "ip": "192.168.1.12",
+        "subnet": "192.168.1.0/24",
+        "protocol": "TCP",
+        "priority": "HIGH"
+    },
+
+    "Client4": {
+        "ip": "192.168.2.10",
+        "subnet": "192.168.2.0/24",
+        "protocol": "UDP",
+        "priority": "NORMAL"
+    },
+
+    "Client5": {
+        "ip": "192.168.2.11",
+        "subnet": "192.168.2.0/24",
+        "protocol": "UDP",
+        "priority": "HIGH"
+    },
+
+    "Client6": {
+        "ip": "192.168.2.12",
+        "subnet": "192.168.2.0/24",
+        "protocol": "UDP",
+        "priority": "NORMAL"
+    },
+
+    "Client7": {
+        "ip": "192.168.3.10",
+        "subnet": "192.168.3.0/24",
+        "protocol": "TCP",
+        "priority": "HIGH"
+    }
+}
